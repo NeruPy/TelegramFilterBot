@@ -16,7 +16,7 @@ Telegram Filter Bot - это бот для Telegram, который помога
 
 1. Клонируйте репозиторий в любую удобную вам папку:
     ```bash
-    git clone https://github.com/yourusername/telegram-filter-bot.git
+    git clone https://github.com/NeruPy/TelegramFilterBot.git
     ```
 
 2. Установите необходимые зависимости:
