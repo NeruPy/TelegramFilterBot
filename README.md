@@ -52,7 +52,3 @@ Telegram Filter Bot - это бот для Telegram, который помога
 ## Лицензия
 
 Этот проект лицензирован под MIT License - подробности см. в файле [LICENSE](LICENSE).
-
-## Контакты
-
-Для вопросов и предложений, пожалуйста, свяжитесь с нами по электронной почте: [your-email@example.com](mailto:your-email@example.com).
